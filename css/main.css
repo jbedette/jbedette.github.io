@@ -36,6 +36,10 @@ body{
     width: 70px;
     padding-bottom: 10px;
 }
+.resume{
+    width: 85px;
+    height: 85px;
+}
 .projectDiv{
     width: 35%;
     margin-left: 5%;
