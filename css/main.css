@@ -61,11 +61,14 @@ body{
     display: inline-block;
 }
 .abouttext{
-    max-width:100%;
-    max-height: 150px;
-}
-.profilepic{
     max-width:200px;
     max-height: 150px;
+    padding-bottom: 40px;
+    margin-left: 10%;
+}
+.profilepic{
+    max-width:100%;
+    max-height: 200px;
     border-radius: 35px;
+    border: 3px solid #A3ECFF;
 }
