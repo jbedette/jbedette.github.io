@@ -8,7 +8,6 @@ body{
 .titlebox{
     margin-top: 10%;
     margin-left: 10%;
-    /* background-image: url('./vector.jpg'); */
     width:80%;
 }
 .heroBackground{
@@ -59,6 +58,7 @@ body{
 }
 .aboutsection{
     display: inline-block;
+    margin-bottom: 20px;
 }
 .abouttext{
     width:200px;
